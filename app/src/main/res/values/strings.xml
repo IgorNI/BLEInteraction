@@ -2,4 +2,10 @@
     <string name="app_name">BLEInteraction</string>
     <string name="showInformation">显示信息</string>
     <string name="modify">修改</string>
+    <string name="ScanDevice">扫描设备</string>
+    <string name="ble_not_supported">设备不支持BLE</string>
+    <string name="bluetooth_not_support">设备不支持蓝牙</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">stop</string>
+    <string name="unknown_device">不知名的设备</string>
 </resources>
